@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>map1.jpg</file>
+        <file>towerposi.png</file>
+        <file>towerposition.png</file>
+        <file>02.png</file>
+        <file>posi.png</file>
+        <file>11.png</file>
+        <file>bullet.png</file>
+        <file>Waves.plist</file>
+        <file>grass_02.jpg</file>
+        <file>blood_1.png</file>
+        <file>wave_1.png</file>
+        <file>gold_1.png</file>
+        <file>enemy01.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>12.png</file>
+        <file>enemy1.png</file>
+        <file>fire.png</file>
+        <file>wave.png</file>
+    </qresource>
+</RCC>
